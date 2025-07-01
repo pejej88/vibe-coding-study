@@ -1,0 +1,5 @@
+{
+  "name": "오늘 뭐 먹지? (What to Eat Today?)",
+  "description": "A recipe recommendation service that suggests home-cooked meals based on the ingredients you have in your refrigerator, helping you decide what to eat and reduce food waste.",
+  "requestFramePermissions": []
+}
